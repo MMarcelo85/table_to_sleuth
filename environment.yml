@@ -227,4 +227,3 @@ dependencies:
       - urllib3==1.26.15
       - validators==0.20.0
       - watchdog==3.0.0
-prefix: /home/marcelo/anaconda3/envs/Streamlit
